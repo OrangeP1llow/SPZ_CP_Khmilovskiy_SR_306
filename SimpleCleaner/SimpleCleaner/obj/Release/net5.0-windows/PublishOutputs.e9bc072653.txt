@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SimpleCleaner.exe
+C:\Users\User\Desktop\SimpleCleaner.dll
+C:\Users\User\Desktop\SimpleCleaner.deps.json
+C:\Users\User\Desktop\SimpleCleaner.runtimeconfig.json
+C:\Users\User\Desktop\SimpleCleaner.pdb
