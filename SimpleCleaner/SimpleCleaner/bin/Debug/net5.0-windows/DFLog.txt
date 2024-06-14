@@ -1,0 +1,11 @@
+23.05.2024 17:45:43: [Check for file types] button was pressed.
+23.05.2024 17:45:45: Directory was chosen.
+23.05.2024 17:45:48: [GetFileCountByCategory] function was called successfully.
+23.05.2024 17:45:48: [GetCategoryByExtension] function was called successfully.
+23.05.2024 17:45:48: [DisplayResultsInDataGridView] function was called successfully.
+23.05.2024 17:45:48: [CalculateTotalFiles] function was called successfully.
+23.05.2024 17:45:48: [Check for file types] button was worked successfully.
+23.05.2024 17:45:59: [Go Back] button was pressed.
+23.05.2024 17:45:59: [Go Back] button was worked successfully.
+27.05.2024 12:04:12: [FАQ] button was pressed.
+27.05.2024 12:04:12: [FАQ] button worked successfully.

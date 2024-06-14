@@ -1,0 +1,6 @@
+14.05.2024 21:27:58: [Go Back] button was pressed.
+14.05.2024 21:27:58: [Go Back] button was worked successfully.
+14.05.2024 21:28:13: [FАQ] button was pressed.
+14.05.2024 21:28:13: [FАQ] button worked successfully.
+14.05.2024 21:28:17: [Go Back] button was pressed.
+14.05.2024 21:28:17: [Go Back] button was worked successfully.

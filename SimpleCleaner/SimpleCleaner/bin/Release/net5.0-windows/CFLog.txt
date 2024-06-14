@@ -1,0 +1,27 @@
+14.05.2024 21:27:56: [Find duplicates] button was pressed.
+14.05.2024 21:27:56: [Find duplicates] button was worked successfully.
+14.05.2024 21:28:00: [Search All] button was pressed.
+14.05.2024 21:28:02: [GetDirectorySize] function was called successfully.
+14.05.2024 21:28:02: [GetDirectorySize] function was called successfully.
+14.05.2024 21:28:02: [DisplayRecycleBinSizeInfo] function was called successfully.
+14.05.2024 21:28:02: [DisplayTempFolderSizeInfo] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [DisplayCacheInfoForAllBrowser] function was called successfully.
+14.05.2024 21:28:02: [DisplayCacheInfoForChrome] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [DisplayCacheInfoForEdge] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [GetFolderSize] function was called successfully.
+14.05.2024 21:28:02: [DisplayCacheInfoForIE] function was called successfully.
+14.05.2024 21:28:02: [DisplayCacheInfo] function was called successfully.
+14.05.2024 21:28:02: [CalculateTotalCacheSize] function was called successfully.
+14.05.2024 21:28:02: [Search All] button was worked successfully.
+14.05.2024 21:28:12: [Find duplicates] button was pressed.
+14.05.2024 21:28:12: [Find duplicates] button was worked successfully.
